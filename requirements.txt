@@ -2,4 +2,3 @@ streamlit
 nltk
 scikit-learn
 regex
-nltk.download('stopwords')
